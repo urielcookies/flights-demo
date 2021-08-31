@@ -1,3 +1,5 @@
+
+![flight_app gif](https://github.com/urielcookies/flights-demo/blob/main/GIF5.gif)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
